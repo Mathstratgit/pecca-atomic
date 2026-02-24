@@ -1,6 +1,6 @@
 # Pecca Python SDK — Examples
 
-Code examples for the [pecca-python](https://pypi.org/project/pecca-python/) SDK. Query your data, manage your knowledge base, and build AI-powered apps — all in Python.
+Code examples for the [pecca-python] SDK. Query your data, manage your knowledge base, and build AI-powered apps — all in Python.
 
 ---
 
