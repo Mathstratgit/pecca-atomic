@@ -229,4 +229,3 @@ streamlit run app.py
 ## Links
 
 - [pecca-ai.in](https://pecca-ai.in)
-- [PyPI: pecca-python](https://pypi.org/project/pecca-python/)
