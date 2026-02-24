@@ -36,9 +36,9 @@ print(response["response_text"])
 
 Pecca automatically generates interactive charts from your data. Here are two examples:
 
-![Spotify User Base Growth (2018-2022)](images/example_chart_1.png)
+![Spotify User Base Growth (2018-2022)](example_chart_1.png)
 
-![Formula One Team Wins Comparison (2005-2010)](images/example_chart_2.png)
+![Formula One Team Wins Comparison (2005-2010)](example_chart_2.png)
 
 ---
 
