@@ -221,7 +221,7 @@ streamlit run app.py
 
 | Type | Format |
 |------|--------|
-| Documents | PDF, DOCX, TXT |
+| Documents | PDF, DOCX, PPT, TXT |
 | Spreadsheets | CSV, XLSX, Parquet |
 
 ---
