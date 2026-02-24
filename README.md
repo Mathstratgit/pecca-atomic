@@ -14,7 +14,7 @@ pip install pecca-python
 
 ## Getting Your API Key
 
-1. Sign up at [pecca.ai](https://pecca-ai.in)
+1. Sign up at [pecca-ai.in](https://pecca-ai.in)
 2. Go to your Dashboard and create an API key
 3. Your key will look like `pecca_xxxxxxxxxxxxxx`
 
